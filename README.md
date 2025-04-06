@@ -5,4 +5,5 @@ Siteyi çeşitli görsellerle zenginleştirerek kullanıcıların ilgisinin çek
  Ayrıca, Bootstrap'in sunduğu hazır bileşenler  kullanarak site daha dinamik ve kullanıcı dostu haline getirildi. ​
 
 # Ekran Görüntüsü
-![Uploading Emaartech Buıldıng.gif…]()
+![Emaartech Buıldıng](https://github.com/user-attachments/assets/3ca81679-5290-444b-8b5b-e0c221f21c72)
+
